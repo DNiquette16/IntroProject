@@ -1,0 +1,2 @@
+Your Scores	Dealer's Scores
+26		23
